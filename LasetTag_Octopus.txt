@@ -20,6 +20,12 @@ http://fr.rs-online.com/web/p/led-ir/8187663/
 http://fr.rs-online.com/web/p/led-ir/6997635/
 https://www.alibaba.com/product-detail/High-Power-Infrared-Emitting-Diode-TSAL5100_60051164978.html
 http://fr.rs-online.com/web/p/led-ir/6997626/?searchTerm=TSAL6100&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D6672266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4B4559574F52445F53494E474C455F414C5048415F4E554D455249432677633D424F5448267573743D5453414C36313030267374613D5453414C3631303026
+Notes sur les LEDs
+http://www.gizmology.net/LEDs.htm
+LED et securité pour les YEUX
+http://forum.allaboutcircuits.com/threads/are-infra-red-leds-dangerous-for-the-eyes.80471/
+http://forum.allaboutcircuits.com/threads/led-safety-eye-safety.79000/
+http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/XLamp%20Application%20Notes/XLamp_EyeSafety.pdf
 
 
 ---- IRReceiver:TSOP34856
@@ -46,3 +52,15 @@ http://www.leroymerlin.fr/v3/p/produits/tube-irl-diam-25-mm-polypipe-e27755
 ---- Batterie de secours
 http://www.fnac.com/mp23512340/Batterie-secours-PowerBank-2200mAh-micro-USB/w-4?ectrans=1&gclid=CjwKEAiAmo_CBRC9qbGQssjqi28SJABYTgZxYPokSUt8LPXmrUVO6v-25P1UWDul0PH3B1t2xSLCpBoCWVfw_wcB&mckv=DOmgWBEb_dc&oref=02f49128-dc5a-5371-9f90-2ec74131443e&Origin=CMP_GOOGLE_MP_MICRO&pcrid=77058255383
 
+
+
+---- Imprimante 3D
+Imprimante 3D (cousin à Eva)
+DaVinci Junior
+15*15*15cm, buse 0.4mm, filament 1.75mm
+Mode d'impression 0.1mm/0.2mm/0.3mm/0.4mm
+http://eu.xyzprinting.com/eu_fr/Product/da-Vinci-1.0-Junior
+
+
+Consommable PLA diam 1.75mm, exemple de pris de bobine
+http://www.makershop.fr/55-filament-pla-175mm

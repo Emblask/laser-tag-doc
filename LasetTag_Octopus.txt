@@ -1,0 +1,48 @@
+----Liens vers les composants commandés et leur datasheet:
+- Optique: 
+- IR LED:
+- IRReceiver:TSOP34856
+- uControlleur:
+- Carte de prototypage:
+
+
+---- Optique:
+https://fr.aliexpress.com/item/2pcs-lot-25mm-x-45mm-BiConvex-Lens-for-Google-Cardboard-DIY-3D-VR-Glasses-High-quality/32685561574.html?spm=2114.40010208.4.136.o1wZM6&detailNewVersion=&categoryId=190404
+https://french.alibaba.com/product-detail/diameter-12-7mm-focal-length-25mm-bk7-optical-double-convex-lens-optical-lens-60512501290.html
+https://fr.aliexpress.com/item/power-LED-optical-lens-Diameter-17-5mm-Double-Convex-lens-1W-3W-5W-Plastic-LED-Lens/32631708430.html?spm=2114.44010408.3.104.wwITud
+https://wholesaler.alibaba.com/product-detail/25mm-diameter-45mm-focal-length-acrylic_60358365139.html
+
+---- IR LED:
+http://fr.rs-online.com/web/p/led-ir/8187663/
+http://fr.rs-online.com/web/p/led-ir/8187672/
+http://fr.rs-online.com/web/p/led-ir/7733996/
+http://fr.rs-online.com/web/p/led-ir/8187663/
+http://fr.rs-online.com/web/p/led-ir/6997635/
+https://www.alibaba.com/product-detail/High-Power-Infrared-Emitting-Diode-TSAL5100_60051164978.html
+http://fr.rs-online.com/web/p/led-ir/6997626/?searchTerm=TSAL6100&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D6672266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4B4559574F52445F53494E474C455F414C5048415F4E554D455249432677633D424F5448267573743D5453414C36313030267374613D5453414C3631303026
+
+
+---- IRReceiver:TSOP34856
+https://www.alibaba.com/product-detail/Receiver-module-TSOP34856-New-and-original_60338742980.html
+https://www.alibaba.com/product-detail/TSOP34856S-infrared-receivers-IR-_60039385316.html
+http://www.mouser.fr/ProductDetail/Vishay-Semiconductors/TSOP34856/?qs=YpThDOo7zfSYEWNIgtt1Tw%3D%3D
+http://www.mouser.fr/ProductDetail/Vishay-Semiconductors/TSOP4856/?qs=1WEdN3s0EjGbHaJ1x7HtPA%3D%3D
+http://shop.lasertagparts.com/product.sc?productId=41
+http://www.vishay.com/docs/82459/tsop48.pdf
+http://www.newark.com/vishay/tsop34856/ir-receiver-35m-950nm-sip/dp/88K1268
+
+---- uControlleur:
+http://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-eval-tools/stm32-mcu-eval-tools/stm32-mcu-nucleo/nucleo-l432kc.html
+http://www.mouser.be/ProductDetail/STMicroelectronics/NUCLEO-L432KC/?qs=qzCNEk%252bRr%252bajjPvxjwWK5g==
+
+---- Carte de prototypage
+https://www.amazon.fr/LAOMAO-Prototype-Experiment-Circuit-Universal/dp/B00FXHXT80/ref=sr_1_1?s=electronics&ie=UTF8&qid=1480865485&sr=1-1&keywords=plaque+prototypage
+https://www.amazon.fr/Stripboard-Universel-Prototype-Circuit-Imprim%C3%A9/dp/B00GTFPCLM/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1480865485&sr=1-1-catcorr&keywords=plaque+prototypage
+
+---- Tube PVC
+http://www.leroymerlin.fr/v3/p/produits/tube-irl-diam-25-mm-polypipe-e27755
+
+
+---- Batterie de secours
+http://www.fnac.com/mp23512340/Batterie-secours-PowerBank-2200mAh-micro-USB/w-4?ectrans=1&gclid=CjwKEAiAmo_CBRC9qbGQssjqi28SJABYTgZxYPokSUt8LPXmrUVO6v-25P1UWDul0PH3B1t2xSLCpBoCWVfw_wcB&mckv=DOmgWBEb_dc&oref=02f49128-dc5a-5371-9f90-2ec74131443e&Origin=CMP_GOOGLE_MP_MICRO&pcrid=77058255383
+

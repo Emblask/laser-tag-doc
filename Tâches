@@ -1,0 +1,19 @@
+Electronique
+- Emeteur
+- Recepteur
+...
+***********************************************************************************************************
+Soft
+- Installation des outils (STM32, IHM, CAO Méca ...)
+- Firmware stm32 pour l'électronique
+  * Led émetrice
+  * Led réceptrice
+  * ...
+- Firmware stm32 pour le fonctionnement du jeu (points, vies, armes, ...)
+- IHM et communication de tous les joueurs au début et à la fin de la partie
+***********************************************************************************************************
+Mécanique:
+- Bague pour l'optique et la led 
+- Bague pour l'optique receptrice (Plaque pvc ou Dôme pir)
+- Pistolet avec  les cartes
+...

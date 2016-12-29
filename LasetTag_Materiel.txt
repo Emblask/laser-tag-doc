@@ -17,7 +17,17 @@ http://www.newark.com/vishay/tsop34856/ir-receiver-35m-950nm-sip/dp/88K1268
 STMicroelectronics NUCLEO-L432KC 
 http://www.digikey.com/product-detail/en/stmicroelectronics/NUCLEO-L432KC/497-16592-ND/6132763
 
+- Ecran LCD:
+(Afficheur 7segments x 4)
 
+- Batterie:
+(Batterie de secours, USB)
+
+-Boutons pressoires:
+
+
+
+SHOP:
 ---- Optique:
 https://fr.aliexpress.com/item/2pcs-lot-25mm-x-45mm-BiConvex-Lens-for-Google-Cardboard-DIY-3D-VR-Glasses-High-quality/32685561574.html?spm=2114.40010208.4.136.o1wZM6&detailNewVersion=&categoryId=190404
 https://french.alibaba.com/product-detail/diameter-12-7mm-focal-length-25mm-bk7-optical-double-convex-lens-optical-lens-60512501290.html
@@ -38,7 +48,6 @@ LED et securité pour les YEUX
 http://forum.allaboutcircuits.com/threads/are-infra-red-leds-dangerous-for-the-eyes.80471/
 http://forum.allaboutcircuits.com/threads/led-safety-eye-safety.79000/
 http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/XLamp%20Application%20Notes/XLamp_EyeSafety.pdf
-
 
 ---- IRReceiver:TSOP34856
 https://www.alibaba.com/product-detail/Receiver-module-TSOP34856-New-and-original_60338742980.html
@@ -77,7 +86,6 @@ DaVinci Junior
 15*15*15cm, buse 0.4mm, filament 1.75mm
 Mode d'impression 0.1mm/0.2mm/0.3mm/0.4mm
 http://eu.xyzprinting.com/eu_fr/Product/da-Vinci-1.0-Junior
-
 
 Consommable PLA diam 1.75mm, exemple de pris de bobine
 http://www.makershop.fr/55-filament-pla-175mm
